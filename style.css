@@ -41,3 +41,20 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: goldenrod;
+}
+footer{
+    text-align: center;
+}
